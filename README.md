@@ -1,6 +1,6 @@
 # Postman API Testing Collection
 
-![reqres_screenshot](https://github.com/user-attachments/assets/eb876e7c-7ca5-4877-8bdd-9d3539441b2f)
+![reqres_screenshot](https://github.com/user-attachments/assets/7f50909c-b931-451a-98ac-abb01380ffd4)
 
 
 The repository was created as part of a practice project, which contains Postman collections (one for now, but will be expanded soon).

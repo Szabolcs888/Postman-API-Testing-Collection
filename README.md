@@ -1,11 +1,10 @@
 # Postman API Testing Collection
 
-![reqres_screenshot](https://github.com/user-attachments/assets/7f50909c-b931-451a-98ac-abb01380ffd4)
-
-
 The repository was created as part of a practice project, which contains Postman collections (one for now, but will be expanded soon).
 
 ## Reqres API Test Collection
+
+![reqres_screenshot](https://github.com/user-attachments/assets/7f50909c-b931-451a-98ac-abb01380ffd4)
 
 This Postman collection is for testing various endpoints of the [Reqres](https://reqres.in/) API. The collection includes tests for user management (CRUD operations), authentication, and error handling. It aims to demonstrate the basic principles of testing REST APIs using Postman. To run the tests, all you need to do is import the json file into Postman.
 
